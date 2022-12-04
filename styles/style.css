@@ -1,0 +1,28 @@
+/*
+File name: index.html
+Created by: Miguel Angel Vinas
+Date: 04/12/2022
+Purpose: Lab 1, Week 10, Website Development for NCI. Grocery List Application
+*/
+
+body
+{
+    display:flex;
+    flex-direction: column;
+    align-items: inline;
+    width:max-content;
+    margin: auto;
+}
+
+button
+{
+    padding: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+ol
+{
+    width: fit-content;
+    margin: auto;
+}
